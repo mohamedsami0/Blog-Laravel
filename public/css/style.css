@@ -1,0 +1,117 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+ .add-post-title , .tag-post{
+
+	margin-top: 25px;
+	background-color:#343a40;
+	padding: 10px;
+	color: #FFF;
+	font-weight: bold;
+}
+
+
+.blog-posts{
+
+	background-color:#343a40;
+	padding: 10px;
+	color: #FFF;
+	font-weight: bold;
+	margin-top: 25px;
+}
+.form-style{
+
+ margin-top: 120px;
+ margin-bottom: 85px
+}
+form h1{
+	font-size: 65px;
+	font-weight: bold;
+	color: #343a40;
+	margin-bottom: 30px
+}
+.form-style .form-control{
+
+	width: 50%;
+	margin-left: 25%
+}
+.form-style label{
+
+	margin-left: 25%
+}
+.user-role, .comment-settings, .user-name,.leatest, .comment-count{
+	margin-top: 70px;
+	background-color:#343a40;
+	padding: 10px;
+	color: #FFF;
+	font-weight: bold;
+}
+.user-name{
+
+	margin-bottom: 70px
+}
+.comment-label{
+
+	font-size: 25px
+}
+.about{
+
+	margin-top: 30px;
+	letter-spacing: 1px
+}
+.statistic{
+
+	margin-top: 100px
+}
+.statistic .count{
+
+	background-color: #D9D9D9;
+	padding: 15px;
+	margin-bottom: 100px;
+	border: 3px solid #17a2b8;
+}
+.leatest{
+
+	margin-bottom: 50px
+}
+.card-footer{
+
+	font-size: 14px
+}
+.post-view a{
+
+	color: #FFF;
+}
+.date-single{
+
+	margin-bottom: 20px
+}
+.page-item.active .page-link{
+
+	background: #17a2b8;
+	border: none;
+
+}
+.page-link{
+
+	color: #777
+}
+.dashbord-admin{
+
+	margin-bottom: 258px
+}
+
+
